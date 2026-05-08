@@ -12,8 +12,6 @@
 
 ## 🎯 Sobre mim
 
-Sou um desenvolvedor apaixonado por criar soluções inovadoras que fazem diferença. Estudo **Engenharia de Software** na **UDF** e estou constantemente explorando novas tecnologias, especialmente em desenvolvimento web moderno e inteligência artificial.
-
 - 🎓 Estudante de **Engenharia de Software** 
 - 💻 Especializado em **Web Development** (Front-end & Back-end)
 - 🤖 Entusiasta de **Inteligência Artificial** e **Machine Learning**
@@ -112,9 +110,7 @@ Aqui estão alguns dos meus projetos mais interessantes:
 
 <div align="center">
 
-> **"Código é arte. Tecnologia é inovação. Juntas, criam o futuro."**
-
-✨ *Sempre buscando aprender, criar e fazer diferença através da tecnologia.* ✨
+> **"Se você pode sonhar, você pode fazer"**
 
 </div>
 
@@ -123,7 +119,5 @@ Aqui estão alguns dos meus projetos mais interessantes:
 <div align="center">
 
 ![Views](https://komarev.com/ghpvc/?username=joaobmatos&color=00D9FF&style=flat-square&label=Profile+Views)
-
-⭐ **Se gostou, deixe uma estrela!** ⭐
 
 </div>
